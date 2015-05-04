@@ -23,7 +23,7 @@
 			<version>${storm.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>backtype</groupId>
+			<groupId>org.zeromq</groupId>
 			<artifactId>jzmq</artifactId>
 			<version>${jzmq.version}</version>
 		</dependency>
